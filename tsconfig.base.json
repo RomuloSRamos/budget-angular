@@ -16,6 +16,7 @@
       "dom"
     ],
     "module": "esnext",
+    
     "baseUrl": "./",
     "paths": {
       "@models/*": [
